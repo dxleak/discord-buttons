@@ -10,5 +10,5 @@ module.exports = {
       .setStyle('url') 
       .setLabel('Support') // here you put your button name  
       .setURL('https://discord.gg/UY6TcBTjBS') // here you put your button url
-    message.channel.send('Salut ! clique sur le boutton pour rejoindre toxica.', button); //the message where the button goes down
+    message.channel.send('Salut ! clique sur le boutton pour rejoindre le support.', button); //the message where the button goes down
     }}                        
